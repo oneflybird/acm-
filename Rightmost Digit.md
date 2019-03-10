@@ -1,12 +1,8 @@
-# 快速幂
-
-> 来源：杭电oj
-
-## Rightmost Digit
+# Rightmost Digit
 
 ##### Time Limit : 2000/1000ms (Java/Other)   Memory Limit : 65536/32768K (Java/Other)
 
-##### Total Submission(s) : 102   Accepted Submission(s) : 39
+##### Total Submission(s) : 104   Accepted Submission(s) : 41
 
 Problem Description
 
@@ -54,7 +50,7 @@ Author
 
 Ignatius.L
 
-## 题解
+ ## 题解
 
 ```c++
 #include<cstdio>
